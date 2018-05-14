@@ -1,0 +1,135 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Entities", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Entities\ProjectYuan.Entities.csproj", "{14D1AA5D-748A-4BB1-B2ED-56630AFC5143}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{5F959051-D0E0-4360-8603-CC286DED96F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Middleware", "Middleware", "{204401CA-1D2E-4288-8E58-DD92478519EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Tools", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Tools\ProjectYuan.Tools.csproj", "{E65877E1-BE01-40DE-9985-BCB8781C505F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Engine", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Engine\ProjectYuan.Engine.csproj", "{DB5CD202-D65D-4471-BC02-C8512FDDD1A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Operation", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Operation\ProjectYuan.Operation.csproj", "{F665DA00-0FD3-417E-A5E4-E5833AC34AD4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Helper", "Helper", "{D1E3EC63-8A87-44AD-96AE-1128D5DE3EC4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{43F9BF9C-8D46-4DA8-9528-4224629BCCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Database.Framework", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Database.Framework\ProjectYuan.Database.Framework.csproj", "{27B74E1A-805C-4F95-A62D-CC5DEB9B9731}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.LauncherService", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.LauncherService\ProjectYuan.LauncherService.csproj", "{402E8869-6590-47B7-8785-22AB8F5239AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Transmitter", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Transmitter\ProjectYuan.Transmitter.csproj", "{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.BusinessLogic", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.BusinessLogic\ProjectYuan.BusinessLogic.csproj", "{BC014E06-3B71-418C-9A1F-15802F2D6103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.FilesUploader", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Uploader\ProjectYuan.FilesUploader.csproj", "{2BF80651-B2DF-478D-905B-8A1893C22D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Interfaces", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Interfaces\ProjectYuan.Interfaces.csproj", "{FCF51998-427C-43B2-BEB5-4C55B33C1576}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.BusinessLogic.Tests", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.BusinessLogic.Tests\ProjectYuan.BusinessLogic.Tests.csproj", "{13AB67D8-24E0-4768-8555-14737D425546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Messenger", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.SMS\ProjectYuan.Messenger.csproj", "{5DA143C9-53E5-4C5D-9194-EF4C24670E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.Messenger.Tests", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.Messenger.Tests\ProjectYuan.Messenger.Tests.csproj", "{84B8360D-188F-453B-922E-CFF8C91C4B2B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{C4544C4A-C13E-4DCD-B2BC-2FAE9F7F202B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Contracts", "Contracts", "{D6FCDEAE-743E-47D3-96EB-B7BD90778768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.SQL.WPO", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.SQL.WPO\ProjectYuan.SQL.WPO.csproj", "{376B0786-3E8F-400B-B49E-395FA6352E95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectYuan.SQL.MMW", "..\..\..\Documents\Visual Studio 2015\Projects\ProjectYuan\ProjectYuan.SQL.MMW\ProjectYuan.SQL.MMW.csproj", "{D639F24F-C65A-4966-8B99-1CC761DF874A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14D1AA5D-748A-4BB1-B2ED-56630AFC5143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D1AA5D-748A-4BB1-B2ED-56630AFC5143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D1AA5D-748A-4BB1-B2ED-56630AFC5143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D1AA5D-748A-4BB1-B2ED-56630AFC5143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65877E1-BE01-40DE-9985-BCB8781C505F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65877E1-BE01-40DE-9985-BCB8781C505F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65877E1-BE01-40DE-9985-BCB8781C505F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65877E1-BE01-40DE-9985-BCB8781C505F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5CD202-D65D-4471-BC02-C8512FDDD1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5CD202-D65D-4471-BC02-C8512FDDD1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5CD202-D65D-4471-BC02-C8512FDDD1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5CD202-D65D-4471-BC02-C8512FDDD1A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F665DA00-0FD3-417E-A5E4-E5833AC34AD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F665DA00-0FD3-417E-A5E4-E5833AC34AD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F665DA00-0FD3-417E-A5E4-E5833AC34AD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F665DA00-0FD3-417E-A5E4-E5833AC34AD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27B74E1A-805C-4F95-A62D-CC5DEB9B9731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27B74E1A-805C-4F95-A62D-CC5DEB9B9731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27B74E1A-805C-4F95-A62D-CC5DEB9B9731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27B74E1A-805C-4F95-A62D-CC5DEB9B9731}.Release|Any CPU.Build.0 = Release|Any CPU
+		{402E8869-6590-47B7-8785-22AB8F5239AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{402E8869-6590-47B7-8785-22AB8F5239AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{402E8869-6590-47B7-8785-22AB8F5239AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{402E8869-6590-47B7-8785-22AB8F5239AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC014E06-3B71-418C-9A1F-15802F2D6103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC014E06-3B71-418C-9A1F-15802F2D6103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC014E06-3B71-418C-9A1F-15802F2D6103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC014E06-3B71-418C-9A1F-15802F2D6103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BF80651-B2DF-478D-905B-8A1893C22D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BF80651-B2DF-478D-905B-8A1893C22D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BF80651-B2DF-478D-905B-8A1893C22D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BF80651-B2DF-478D-905B-8A1893C22D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF51998-427C-43B2-BEB5-4C55B33C1576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF51998-427C-43B2-BEB5-4C55B33C1576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF51998-427C-43B2-BEB5-4C55B33C1576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF51998-427C-43B2-BEB5-4C55B33C1576}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AB67D8-24E0-4768-8555-14737D425546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AB67D8-24E0-4768-8555-14737D425546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AB67D8-24E0-4768-8555-14737D425546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AB67D8-24E0-4768-8555-14737D425546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA143C9-53E5-4C5D-9194-EF4C24670E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA143C9-53E5-4C5D-9194-EF4C24670E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA143C9-53E5-4C5D-9194-EF4C24670E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA143C9-53E5-4C5D-9194-EF4C24670E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B8360D-188F-453B-922E-CFF8C91C4B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B8360D-188F-453B-922E-CFF8C91C4B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B8360D-188F-453B-922E-CFF8C91C4B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B8360D-188F-453B-922E-CFF8C91C4B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376B0786-3E8F-400B-B49E-395FA6352E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376B0786-3E8F-400B-B49E-395FA6352E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376B0786-3E8F-400B-B49E-395FA6352E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376B0786-3E8F-400B-B49E-395FA6352E95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D639F24F-C65A-4966-8B99-1CC761DF874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D639F24F-C65A-4966-8B99-1CC761DF874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D639F24F-C65A-4966-8B99-1CC761DF874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D639F24F-C65A-4966-8B99-1CC761DF874A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{14D1AA5D-748A-4BB1-B2ED-56630AFC5143} = {5F959051-D0E0-4360-8603-CC286DED96F3}
+		{E65877E1-BE01-40DE-9985-BCB8781C505F} = {5F959051-D0E0-4360-8603-CC286DED96F3}
+		{DB5CD202-D65D-4471-BC02-C8512FDDD1A8} = {204401CA-1D2E-4288-8E58-DD92478519EB}
+		{F665DA00-0FD3-417E-A5E4-E5833AC34AD4} = {5F959051-D0E0-4360-8603-CC286DED96F3}
+		{27B74E1A-805C-4F95-A62D-CC5DEB9B9731} = {5F959051-D0E0-4360-8603-CC286DED96F3}
+		{402E8869-6590-47B7-8785-22AB8F5239AD} = {204401CA-1D2E-4288-8E58-DD92478519EB}
+		{E2D2FAA6-9E3D-42AD-86CC-A54729B0F9CB} = {204401CA-1D2E-4288-8E58-DD92478519EB}
+		{BC014E06-3B71-418C-9A1F-15802F2D6103} = {204401CA-1D2E-4288-8E58-DD92478519EB}
+		{2BF80651-B2DF-478D-905B-8A1893C22D84} = {D1E3EC63-8A87-44AD-96AE-1128D5DE3EC4}
+		{FCF51998-427C-43B2-BEB5-4C55B33C1576} = {D6FCDEAE-743E-47D3-96EB-B7BD90778768}
+		{13AB67D8-24E0-4768-8555-14737D425546} = {C4544C4A-C13E-4DCD-B2BC-2FAE9F7F202B}
+		{5DA143C9-53E5-4C5D-9194-EF4C24670E2B} = {204401CA-1D2E-4288-8E58-DD92478519EB}
+		{84B8360D-188F-453B-922E-CFF8C91C4B2B} = {C4544C4A-C13E-4DCD-B2BC-2FAE9F7F202B}
+		{376B0786-3E8F-400B-B49E-395FA6352E95} = {43F9BF9C-8D46-4DA8-9528-4224629BCCB7}
+		{D639F24F-C65A-4966-8B99-1CC761DF874A} = {43F9BF9C-8D46-4DA8-9528-4224629BCCB7}
+	EndGlobalSection
+EndGlobal
